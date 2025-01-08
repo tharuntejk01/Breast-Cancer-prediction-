@@ -2,8 +2,11 @@
 
 # Requirements:
 Python 3.x
+
 Matplotlib library
+
 Download the dataset from:
+
 https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 
 # Installation:
